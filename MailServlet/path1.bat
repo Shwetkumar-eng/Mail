@@ -1,0 +1,2 @@
+set path=C:\Oracle\Middleware\jdk160_29\bin;
+set classpath=C:\Oracle\Middleware\wlserver_12.1\server\lib\weblogic.jar;C:\Users\Acer\Downloads\activation-1.0.2.jar;C:\Users\Acer\Downloads\javamail1_4_4\javamail-1.4.4\mail.jar;C:\Users\Acer\Downloads\cos-22.05 (1)\lib\cos.jar;
